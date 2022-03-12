@@ -30,4 +30,3 @@ EKOK = (n1*n2) / EBOB
 
 Java ile iki sayının EBOB ve EKOK değerlerini "While Döngüsü" kullanarak yazınız.
 
-Not: Programda ekok herhalükarda bulunuyor onu ayrı ayrı birinci sayı küçüktür ikinci sayı küçüktür ihtimalli döngülere yazmadım. Yazarsak aynı sayı girildiğinde o zaman da ekoku bulmayacaktı.
